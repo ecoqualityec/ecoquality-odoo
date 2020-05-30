@@ -1,0 +1,1 @@
+# ecoquality-odoo
